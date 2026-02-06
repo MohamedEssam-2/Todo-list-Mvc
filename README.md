@@ -113,7 +113,6 @@ TodoList-App-Mvc/
 ```
 
 ---
-## 👤 Author : Mohamed Essam
-
-
-GitHub: @yourusername
+## 👤 Author
+**Mohamed Essam**  
+GitHub: [@MohamedEssam-2](https://github.com/MohamedEssam-2)

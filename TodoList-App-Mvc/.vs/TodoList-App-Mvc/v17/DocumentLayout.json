@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data\\Migrations\\20260206224433_EditDateTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Data\\Migrations\\20260206224433_EditDateTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A14D9F1-297D-48E4-A11C-C311FDAF69AE}|DAL\\Data-Access-Layer.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\dal\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A14D9F1-297D-48E4-A11C-C311FDAF69AE}|DAL\\Data-Access-Layer.csproj|solutionrelative:dal\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\todolist-app-mvc\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|solutionrelative:todolist-app-mvc\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AAB6E4-8942-4B9C-B437-424098177CCB}|Business-Logic-Layer\\Business-Logic-Layer.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\business-logic-layer\\services\\class\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AAB6E4-8942-4B9C-B437-424098177CCB}|Business-Logic-Layer\\Business-Logic-Layer.csproj|solutionrelative:business-logic-layer\\services\\class\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A14D9F1-297D-48E4-A11C-C311FDAF69AE}|DAL\\Data-Access-Layer.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\dal\\data\\repository\\class\\todoapp-repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A14D9F1-297D-48E4-A11C-C311FDAF69AE}|DAL\\Data-Access-Layer.csproj|solutionrelative:dal\\data\\repository\\class\\todoapp-repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\todolist-app-mvc\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|solutionrelative:todolist-app-mvc\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\todolist-app-mvc\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|solutionrelative:todolist-app-mvc\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AAB6E4-8942-4B9C-B437-424098177CCB}|Business-Logic-Layer\\Business-Logic-Layer.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\business-logic-layer\\services\\interface\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AAB6E4-8942-4B9C-B437-424098177CCB}|Business-Logic-Layer\\Business-Logic-Layer.csproj|solutionrelative:business-logic-layer\\services\\interface\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\todolist-app-mvc\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|solutionrelative:todolist-app-mvc\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\todolist-app-mvc\\views\\todo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|solutionrelative:todolist-app-mvc\\views\\todo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\todolist-app-mvc\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|solutionrelative:todolist-app-mvc\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\todolist-app-mvc\\todoviewmodel\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|solutionrelative:todolist-app-mvc\\todoviewmodel\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A14D9F1-297D-48E4-A11C-C311FDAF69AE}|DAL\\Data-Access-Layer.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\dal\\data\\repository\\interface\\itodoapprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A14D9F1-297D-48E4-A11C-C311FDAF69AE}|DAL\\Data-Access-Layer.csproj|solutionrelative:dal\\data\\repository\\interface\\itodoapprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AAB6E4-8942-4B9C-B437-424098177CCB}|Business-Logic-Layer\\Business-Logic-Layer.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\business-logic-layer\\dto\\addorupdatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AAB6E4-8942-4B9C-B437-424098177CCB}|Business-Logic-Layer\\Business-Logic-Layer.csproj|solutionrelative:business-logic-layer\\dto\\addorupdatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\todolist-app-mvc\\todoviewmodel\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|solutionrelative:todolist-app-mvc\\todoviewmodel\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A14D9F1-297D-48E4-A11C-C311FDAF69AE}|DAL\\Data-Access-Layer.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\dal\\data-access-layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A14D9F1-297D-48E4-A11C-C311FDAF69AE}|DAL\\Data-Access-Layer.csproj|solutionrelative:dal\\data-access-layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\todolist-app-mvc\\todoviewmodel\\detailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|solutionrelative:todolist-app-mvc\\todoviewmodel\\detailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AAB6E4-8942-4B9C-B437-424098177CCB}|Business-Logic-Layer\\Business-Logic-Layer.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\business-logic-layer\\dto\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AAB6E4-8942-4B9C-B437-424098177CCB}|Business-Logic-Layer\\Business-Logic-Layer.csproj|solutionrelative:business-logic-layer\\dto\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\todolist-app-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|solutionrelative:todolist-app-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\todolist-app-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|solutionrelative:todolist-app-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AAB6E4-8942-4B9C-B437-424098177CCB}|Business-Logic-Layer\\Business-Logic-Layer.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\business-logic-layer\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AAB6E4-8942-4B9C-B437-424098177CCB}|Business-Logic-Layer\\Business-Logic-Layer.csproj|solutionrelative:business-logic-layer\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\todolist-app-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|solutionrelative:todolist-app-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\todolist-app-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF003F41-0EAE-47E3-8388-273E4CA80AE2}|TodoList-App-Mvc\\TodoList-App-Mvc-PL.csproj|solutionrelative:todolist-app-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A14D9F1-297D-48E4-A11C-C311FDAF69AE}|DAL\\Data-Access-Layer.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\dal\\data\\migrations\\20260203150843_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A14D9F1-297D-48E4-A11C-C311FDAF69AE}|DAL\\Data-Access-Layer.csproj|solutionrelative:dal\\data\\migrations\\20260203150843_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A14D9F1-297D-48E4-A11C-C311FDAF69AE}|DAL\\Data-Access-Layer.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\dal\\data\\context\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A14D9F1-297D-48E4-A11C-C311FDAF69AE}|DAL\\Data-Access-Layer.csproj|solutionrelative:dal\\data\\context\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A14D9F1-297D-48E4-A11C-C311FDAF69AE}|DAL\\Data-Access-Layer.csproj|i:\\vs projects c#\\project-2\\api\\todolist-app-mvc\\dal\\data\\configurations\\todoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A14D9F1-297D-48E4-A11C-C311FDAF69AE}|DAL\\Data-Access-Layer.csproj|solutionrelative:dal\\data\\configurations\\todoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 986,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260206224433_EditDateTime.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data\\Migrations\\20260206224433_EditDateTime.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\Migrations\\20260206224433_EditDateTime.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data\\Migrations\\20260206224433_EditDateTime.cs",
+              "RelativeToolTip": "DAL\\Data\\Migrations\\20260206224433_EditDateTime.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T22:44:33.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Views\\Todo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TodoList-App-Mvc\\Views\\Todo\\Delete.cshtml",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Views\\Todo\\Delete.cshtml",
+              "RelativeToolTip": "TodoList-App-Mvc\\Views\\Todo\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T21:27:11.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoList-App-Mvc\\Controllers\\TodoController.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoList-App-Mvc\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAIAwwIUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T17:41:58.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Todo.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Models\\Todo.cs",
+              "RelativeToolTip": "DAL\\Models\\Todo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:08:25.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoApp-Repository.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data\\Repository\\Class\\TodoApp-Repository.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\Repository\\Class\\TodoApp-Repository.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data\\Repository\\Class\\TodoApp-Repository.cs",
+              "RelativeToolTip": "DAL\\Data\\Repository\\Class\\TodoApp-Repository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAhwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:31:04.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetailsViewModel.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\TodoViewModel\\DetailsViewModel.cs",
+              "RelativeDocumentMoniker": "TodoList-App-Mvc\\TodoViewModel\\DetailsViewModel.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\TodoViewModel\\DetailsViewModel.cs",
+              "RelativeToolTip": "TodoList-App-Mvc\\TodoViewModel\\DetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T21:22:25.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "TodoList-App-Mvc\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "TodoList-App-Mvc\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T21:19:53.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoViewModel.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\TodoViewModel\\TodoViewModel.cs",
+              "RelativeDocumentMoniker": "TodoList-App-Mvc\\TodoViewModel\\TodoViewModel.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\TodoViewModel\\TodoViewModel.cs",
+              "RelativeToolTip": "TodoList-App-Mvc\\TodoViewModel\\TodoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T21:25:35.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\Business-Logic-Layer\\Services\\Interface\\ITodoService.cs",
+              "RelativeDocumentMoniker": "Business-Logic-Layer\\Services\\Interface\\ITodoService.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\Business-Logic-Layer\\Services\\Interface\\ITodoService.cs",
+              "RelativeToolTip": "Business-Logic-Layer\\Services\\Interface\\ITodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:39:11.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Views\\Todo\\Details.cshtml",
+              "RelativeDocumentMoniker": "TodoList-App-Mvc\\Views\\Todo\\Details.cshtml",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Views\\Todo\\Details.cshtml",
+              "RelativeToolTip": "TodoList-App-Mvc\\Views\\Todo\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T21:10:51.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoList-App-Mvc\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "TodoList-App-Mvc\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwEMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T20:55:39.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\Business-Logic-Layer\\Services\\Class\\TodoService.cs",
+              "RelativeDocumentMoniker": "Business-Logic-Layer\\Services\\Class\\TodoService.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\Business-Logic-Layer\\Services\\Class\\TodoService.cs",
+              "RelativeToolTip": "Business-Logic-Layer\\Services\\Class\\TodoService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:40:42.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TodoList-App-Mvc\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "TodoList-App-Mvc\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T21:36:54.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddOrUpdateTodoDto.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\Business-Logic-Layer\\DTO\\AddOrUpdateTodoDto.cs",
+              "RelativeDocumentMoniker": "Business-Logic-Layer\\DTO\\AddOrUpdateTodoDto.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\Business-Logic-Layer\\DTO\\AddOrUpdateTodoDto.cs",
+              "RelativeToolTip": "Business-Logic-Layer\\DTO\\AddOrUpdateTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:37:20.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITodoAppRepository.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data\\Repository\\Interface\\ITodoAppRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\Repository\\Interface\\ITodoAppRepository.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data\\Repository\\Interface\\ITodoAppRepository.cs",
+              "RelativeToolTip": "DAL\\Data\\Repository\\Interface\\ITodoAppRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:27:44.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TodoDto.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\Business-Logic-Layer\\DTO\\TodoDto.cs",
+              "RelativeDocumentMoniker": "Business-Logic-Layer\\DTO\\TodoDto.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\Business-Logic-Layer\\DTO\\TodoDto.cs",
+              "RelativeToolTip": "Business-Logic-Layer\\DTO\\TodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:40:00.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditViewModel.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\TodoViewModel\\EditViewModel.cs",
+              "RelativeDocumentMoniker": "TodoList-App-Mvc\\TodoViewModel\\EditViewModel.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\TodoViewModel\\EditViewModel.cs",
+              "RelativeToolTip": "TodoList-App-Mvc\\TodoViewModel\\EditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T21:32:20.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Data-Access-Layer.csproj",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data-Access-Layer.csproj",
+              "RelativeDocumentMoniker": "DAL\\Data-Access-Layer.csproj",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data-Access-Layer.csproj",
+              "RelativeToolTip": "DAL\\Data-Access-Layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T21:34:43.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TodoList-App-Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TodoList-App-Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T20:54:43.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "TodoList-App-Mvc\\Program.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Program.cs",
+              "RelativeToolTip": "TodoList-App-Mvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:51.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TodoList-App-Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TodoList-App-Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T21:21:33.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\Business-Logic-Layer\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Business-Logic-Layer\\Profiles\\MappingProfile.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\Business-Logic-Layer\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "Business-Logic-Layer\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T17:03:46.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260203150843_InitialCreate.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data\\Migrations\\20260203150843_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\Migrations\\20260203150843_InitialCreate.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data\\Migrations\\20260203150843_InitialCreate.cs",
+              "RelativeToolTip": "DAL\\Data\\Migrations\\20260203150843_InitialCreate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAEwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:08:43.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data\\Context\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\Context\\TodoDbContext.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data\\Context\\TodoDbContext.cs",
+              "RelativeToolTip": "DAL\\Data\\Context\\TodoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:05:17.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TodoConfiguration.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data\\Configurations\\TodoConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\TodoConfiguration.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\DAL\\Data\\Configurations\\TodoConfiguration.cs",
+              "RelativeToolTip": "DAL\\Data\\Configurations\\TodoConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:05:16.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoList-App-Mvc\\appsettings.json",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\TodoList-App-Mvc\\TodoList-App-Mvc\\appsettings.json",
+              "RelativeToolTip": "TodoList-App-Mvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-03T14:40:42.074Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 58,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 19,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+﻿@model Business_Logic_Layer.DTO.AddOrUpdateTodoDto
+@using Data_Access_Layer.Models.Enum
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+
+
+
+<h2 class="mb-4">➕ Create New Todo</h2>
+
+<form asp-action="Create" method="post">
+
+    <!-- Title -->
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <!-- Description -->
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+    </div>
+
+    <!-- Due Date -->
+    <div class="mb-3">
+        <label asp-for="DueDate" class="form-label"></label>
+        <input asp-for="DueDate" type="date" class="form-control" />
+    </div>
+
+    <!-- Status -->
+    <div class="mb-3">
+        <label asp-for="Status" class="form-label"></label>
+        <select asp-for="Status"
+                asp-items="Html.GetEnumSelectList<Status>()"
+                class="form-select">
+        </select>
+    </div>
+
+    <!-- Priority -->
+    <div class="mb-3">
+        <label asp-for="Priority" class="form-label"></label>
+        <select asp-for="Priority"
+                asp-items="Html.GetEnumSelectList<Priority>()"
+                class="form-select">
+        </select>
+    </div>
+
+    <!-- Buttons -->
+    <div class="mt-4">
+        <button type="submit" class="btn btn-success">
+            💾 Save
+        </button>
+
+        <a asp-action="Index" class="btn btn-secondary ms-2">
+            ⬅ Back
+        </a>
+    </div>
+
+</form>
+
+@section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+}

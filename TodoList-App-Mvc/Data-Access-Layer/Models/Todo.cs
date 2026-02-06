@@ -15,10 +15,10 @@ namespace Data_Access_Layer.Models
         [Required]
         public string Title { get; set; } = null!;
         public string? Description { get; set; }
-        public bool IsCompleted { get; set; }
         public DateTime? DueDate { get; set; }
-        public DateTime CreatedDate { get; set; }
-        public DateTime LastModifiedDate { get; set; }
+        public DateTime? CreatedDate { get; set; } = DateTime.Now;
+        public DateTime? LastModified { get; set; } = DateTime.Now;
+
         public Status Status { get; set; }
         public Priority Priority { get; set; }
 

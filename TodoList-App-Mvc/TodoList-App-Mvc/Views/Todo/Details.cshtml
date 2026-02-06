@@ -29,11 +29,16 @@
         @(Model.DueDate.HasValue ? Model.DueDate.Value.ToString("dd/MM/yyyy") : "No Due Date")
     </dd>
 
-    <dt class="col-sm-3">Created Date</dt>
-    <dd class="col-sm-9">@Model.CreatedDate.ToString("dd/MM/yyyy HH:mm")</dd>
+  <dt class="col-sm-3">Created Date</dt>
+<dd class="col-sm-9">
+        @(Model.CreatedDate.HasValue ? Model.CreatedDate.Value.ToString("dd/MM/yyyy HH:mm") : "N/A")
+</dd>
 
-    <dt class="col-sm-3">Last Modified</dt>
-    <dd class="col-sm-9">@Model.LastModifiedDate.ToString("dd/MM/yyyy HH:mm")</dd>
+<dt class="col-sm-3">Last Modified</dt>
+<dd class="col-sm-9">
+        @(Model.LastModified.HasValue ? Model.LastModified.Value.ToString("dd/MM/yyyy HH:mm") : "N/A")
+</dd>
+
 </dl>
 
 <hr />

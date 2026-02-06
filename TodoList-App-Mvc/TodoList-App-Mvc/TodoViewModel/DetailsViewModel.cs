@@ -12,9 +12,8 @@ namespace TodoList_App_Mvc.TodoViewModel
 
         public DateTime? DueDate { get; set; }
 
-        public DateTime CreatedDate { get; set; }
-
-        public DateTime LastModifiedDate { get; set; }
+        public DateTime? CreatedDate { get; set; } = DateTime.Now;
+        public DateTime? LastModified { get; set; } = DateTime.Now;
 
         public Status Status { get; set; }
 

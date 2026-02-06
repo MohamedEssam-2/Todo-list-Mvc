@@ -17,9 +17,8 @@ namespace Business_Logic_Layer.DTO
 
         public DateTime? DueDate { get; set; }
 
-        public DateTime CreatedDate { get; set; }
-
-        public DateTime LastModifiedDate { get; set; }
+        public DateTime? CreatedDate { get; set; } 
+        public DateTime? LastModified { get; set; } 
 
         public Status Status { get; set; }
 

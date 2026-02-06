@@ -23,33 +23,34 @@ Data Access Layer
 └─ EF Core Migrations
 ```
 ---
+
 ## 🚀 Features
 
-✨ CRUD operations for todos
-📊 Status tracking: Pending, In Progress, Completed
-🎯 Priority levels: Low, Medium, High
-📅 Due date management
-🕒 Automatic timestamp tracking (Created/Modified dates)
-📱 Responsive design with Bootstrap
-🎨 Clean and intuitive UI
+- ✨ CRUD operations for todos
+- 📊 Status tracking: Pending, In Progress, Completed
+- 🎯 Priority levels: Low, Medium, High
+- 📅 Due date management
+- 🕒 Automatic timestamp tracking (Created/Modified dates)
+- 📱 Responsive design with Bootstrap
+- 🎨 Clean and intuitive UI
 ---
 
 ## 🛠️ Technologies Used
-Framework: ASP.NET Core 8.0 MVC
-Database: SQL Server
-ORM: Entity Framework Core 8.0
-Mapping: AutoMapper 16.0
-UI Framework: Bootstrap 5
-Icons: Bootstrap Icons
-Target Framework: .NET 8.0
+- Framework: ASP.NET Core 8.0 MVC
+- Database: SQL Server
+- ORM: Entity Framework Core 8.0
+- Mapping: AutoMapper 16.0
+- UI Framework: Bootstrap 5
+- Icons: Bootstrap Icons
+- Target Framework: .NET 8.0
 ---
 ## 📋 Prerequisites
 
 Before running this application, ensure you have:
-.NET 8.0 SDK or later
-SQL Server (Express or higher)
-Visual Studio 2022 or Visual Studio Code
-SQL Server Management Studio (optional, for database management)
+- .NET 8.0 SDK or later
+- SQL Server (Express or higher)
+- Visual Studio 2022 or Visual Studio Code
+- SQL Server Management Studio (optional, for database management)
 
 ---
 ## ⚙️ Installation & Setup
